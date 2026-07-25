@@ -1,0 +1,14 @@
+*.dcm
+*.lib
+.history/
+*-backups/
+.kicad_prl
+*.net
+*.pro
+*.sch
+rescue-backup/
+*bak
+*.bck
+sym-lib-table
+~*
+
